@@ -27,6 +27,11 @@ called ``config.toml``.
    specified with the ``--projectId`` and ``--orgId`` flags take precedence over
    both the profile and the environment variables.
 
+.. card::
+   :headline: Click me
+   :url: https://docs-mongodb-org-stg.s3.us-east-2.amazonaws.com/dark-mode-enable/DOP-4683/landing/maya/DOP-4683/unavailable-version/index.html
+
+
 .. _config-toml-location:
 
 Locate the Configuration File
